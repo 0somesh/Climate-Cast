@@ -1,4 +1,4 @@
-# **CLimate Cast**
+# **Climate Cast**
 This project shows weather of differect region around the world
 
 # Tech used:
